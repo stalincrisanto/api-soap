@@ -18,12 +18,14 @@ const employeesData: Record<string, any> = {
     ZTPLANS: "FUNCIONARIO 1",
     ZNAME_JF: "PAUL EDUARDO VALLEJO SALAZAR",
     ZTPLANS_JF: "FUNCIONARIO 7 (JEFE DPTO)",
+    ZORGEH: "001"
   },
   "shawn@mail.com": {
     ZNAME_EMP: "WASHINGTON ALEJANDRO PILLIGUA CHILIGUANO",
     ZTORGEH: "DPTO INFRAESTRUCTURA Y SEG INFORMATICA",
     ZNAME_JF: "WENCESLAO RAFAEL RUIZ SANCHEZ",
     ZTPLANS_JF: "FUNCIONARIO 7 (JEFE DPTO)",
+    ZORGEH: "002"
   },
   "heather@mail.com": {
     ZNAME_EMP: "LUIS ARMANDO GUILCAPI ORTEGA",
@@ -32,6 +34,7 @@ const employeesData: Record<string, any> = {
     ZTPLANS: "TECNICO ELECTRONICO",
     ZNAME_JF: "WENCESLAO RAFAEL RUIZ SANCHEZ",
     ZTPLANS_JF: "FUNCIONARIO 7 (JEFE DPTO)",
+    ZORGEH: "002"
   },
   "john@mail.com": {
     ZNAME_EMP: "LUIS ARMANDO GUILCAPI ORTEGA",
@@ -40,6 +43,7 @@ const employeesData: Record<string, any> = {
     ZTPLANS: "TECNICO ELECTRONICO",
     ZNAME_JF: "WENCESLAO RAFAEL RUIZ SANCHEZ",
     ZTPLANS_JF: "FUNCIONARIO 7 (JEFE DPTO)",
+    ZORGEH: "002"
   },
   "howard@mail.com": {
     ZNAME_EMP: "LUIS ARMANDO GUILCAPI ORTEGA",
@@ -48,6 +52,7 @@ const employeesData: Record<string, any> = {
     ZTPLANS: "TECNICO ELECTRONICO",
     ZNAME_JF: "WENCESLAO RAFAEL RUIZ SANCHEZ",
     ZTPLANS_JF: "FUNCIONARIO 7 (JEFE DPTO)",
+    ZORGEH: "002"
   },
   "jennifer@mail.com": {
     ZNAME_EMP: "LUIS ARMANDO GUILCAPI ORTEGA",
@@ -56,6 +61,7 @@ const employeesData: Record<string, any> = {
     ZTPLANS: "TECNICO ELECTRONICO",
     ZNAME_JF: "WENCESLAO RAFAEL RUIZ SANCHEZ",
     ZTPLANS_JF: "FUNCIONARIO 7 (JEFE DPTO)",
+    ZORGEH: "002"
   },
   "stalincrisi13@gmail.com": {
     ZNAME_EMP: "LUIS ARMANDO GUILCAPI ORTEGA",
@@ -64,6 +70,7 @@ const employeesData: Record<string, any> = {
     ZTPLANS: "TECNICO ELECTRONICO",
     ZNAME_JF: "WENCESLAO RAFAEL RUIZ SANCHEZ",
     ZTPLANS_JF: "FUNCIONARIO 7 (JEFE DPTO)",
+    ZORGEH: "002"
   },
   "monica@test.com": {
     ZNAME_EMP: "LUIS ARMANDO GUILCAPI ORTEGA",
@@ -72,6 +79,7 @@ const employeesData: Record<string, any> = {
     ZTPLANS: "TECNICO ELECTRONICO",
     ZNAME_JF: "WENCESLAO RAFAEL RUIZ SANCHEZ",
     ZTPLANS_JF: "FUNCIONARIO 7 (JEFE DPTO)",
+    ZORGEH: "002"
   },
   "vanessa@mail.com": {
     ZNAME_EMP: "LUIS ARMANDO GUILCAPI ORTEGA",
@@ -80,6 +88,7 @@ const employeesData: Record<string, any> = {
     ZTPLANS: "TECNICO ELECTRONICO",
     ZNAME_JF: "WENCESLAO RAFAEL RUIZ SANCHEZ",
     ZTPLANS_JF: "FUNCIONARIO 7 (JEFE DPTO)",
+    ZORGEH: "002"
   },
   "pedro@mail.com": {
     ZNAME_EMP: "LUIS ARMANDO GUILCAPI ORTEGA",
@@ -88,6 +97,7 @@ const employeesData: Record<string, any> = {
     ZTPLANS: "TECNICO ELECTRONICO",
     ZNAME_JF: "WENCESLAO RAFAEL RUIZ SANCHEZ",
     ZTPLANS_JF: "FUNCIONARIO 7 (JEFE DPTO)",
+    ZORGEH: "002"
   },
   "juanita@mail.com": {
     ZNAME_EMP: "LUIS ARMANDO GUILCAPI ORTEGA",
@@ -96,6 +106,7 @@ const employeesData: Record<string, any> = {
     ZTPLANS: "TECNICO ELECTRONICO",
     ZNAME_JF: "WENCESLAO RAFAEL RUIZ SANCHEZ",
     ZTPLANS_JF: "FUNCIONARIO 7 (JEFE DPTO)",
+    ZORGEH: "002"
   },
   "miriam@mail.com": {
     ZNAME_EMP: "LUIS ARMANDO GUILCAPI ORTEGA",
@@ -104,6 +115,7 @@ const employeesData: Record<string, any> = {
     ZTPLANS: "TECNICO ELECTRONICO",
     ZNAME_JF: "WENCESLAO RAFAEL RUIZ SANCHEZ",
     ZTPLANS_JF: "FUNCIONARIO 7 (JEFE DPTO)",
+    ZORGEH: "002"
   }
 };
 
